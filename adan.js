@@ -40,7 +40,7 @@ const movies = [
     year: "2012",
     genre: "Action, Sci-Fi",
     desc: "Earth's mightiest heroes must come together and learn to fight as a team to stop Loki.",
-    trailer: "https://youtu.be/bLer55y58u8",
+    trailer: "https://www.youtube.com/watch?v=eOrNdBpGMv8",
     poster: "avengers.jpg",
     servers: [
       { name: "Server 1 (HD)", url: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" },
@@ -474,4 +474,5 @@ function updateUI() {
     document.getElementById("profileName").innerText = user;
   }
 }
+
 updateUI();
