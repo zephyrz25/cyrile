@@ -40,7 +40,7 @@ const movies = [
     year: "2012",
     genre: "Action, Sci-Fi",
     desc: "Earth's mightiest heroes must come together and learn to fight as a team to stop Loki.",
-    trailer: "https://www.youtube.com/watch?v=eOrNdBpGMv8",
+    trailer: "https://www.youtube.com/embed/NPoHPNeU9fc?si=71n-8TP1Gk5iFo0F",
     poster: "avengers.jpg",
     servers: [
       { name: "Server 1 (HD)", url: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" },
@@ -64,7 +64,7 @@ const movies = [
     year: "2018",
     genre: "Action, Drama",
     desc: "T'Challa returns to Wakanda to take his rightful place as king.",
-    trailer: "https://www.youtube.com/watch?v=xjDjIWPwcPU",
+    trailer: "https://www.youtube.com/embed/xDvmsfm2Drs?si=P_8hu3mnLsLpAjmI",
     poster: "blackpanther.jpg",
     servers: [      
       { name: "Server 1 (HD)", url: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" },
@@ -76,7 +76,7 @@ const movies = [
     year: "2021",
     genre: "Action, Fantasy",
     desc: "Peter Parker faces a multiverse crisis.",
-    trailer: "https://www.youtube.com/watch?v=rt-2cxAiPJk",
+    trailer: "https://www.youtube.com/embed/JfVOs4VSpmA?si=qkLnPszIxYnR1NCN",
     poster: "spiderman.jpg",
     servers: [
       { name: "Server 1 (HD)", url: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" },
@@ -88,7 +88,7 @@ const movies = [
     year: "2011",
     genre: "Action, Fantasy",
     desc: "Thor must prove himself worthy after being banished from Asgard.",
-    trailer: "https://www.youtube.com/watch?v=JOddp-nlNvQ",
+    trailer: "https://www.youtube.com/embed/ue80QwXMRHg?si=dS8auw5Q9bSiG0_E",
     poster: "thor.jpg",
     servers: [
       { name: "Server 1 (HD)", url: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" },
@@ -100,7 +100,7 @@ const movies = [
     year: "2016",
     genre: "Action, Fantasy",
     desc: "A brilliant surgeon discovers the mystic arts after a tragic accident.",
-    trailer: "https://www.youtube.com/embed/HSzx-zryEgM",
+    trailer: "https://www.youtube.com/embed/aWzlQ2N6qqg?si=mzsKKypJqajynig8",
     poster: "doctorstrange.jpg",
     servers: [
       { name: "Server 1 (HD)", url: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" },
@@ -112,7 +112,7 @@ const movies = [
     year: "2011",
     genre: "Action, War",
     desc: "Steve Rogers becomes Captain America to fight HYDRA.",
-    trailer: "https://www.youtube.com/embed/JerVrbLldXw",
+    trailer: "https://www.youtube.com/embed/qi5UTD7kEr0?si=LIjkmDm33aFVFJFe",
     poster: "captainamerica.jpg",
     servers: [
       { name: "Server 1 (HD)", url: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" },
@@ -124,7 +124,7 @@ const movies = [
     year: "2008",
     genre: "Action, Sci-Fi",
     desc: "Bruce Banner becomes the Hulk after a gamma radiation accident.",
-    trailer: "https://www.youtube.com/embed/xbqNb2PFKKA",
+    trailer: "https://www.youtube.com/embed/xbqNb2PFKKA?si=y2hlU6QpUthJSAF8",
     poster: "hulk.jpg",
     servers: [
       { name: "Server 1 (HD)", url: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" },
@@ -136,7 +136,7 @@ const movies = [
     year: "2024",
     genre: "Action, Comedy",
     desc: "The merc with a mouth teams up with Wolverine for a chaotic adventure.",
-    trailer: "https://www.youtube.com/embed/Idh8n5XuYIA",
+    trailer: "https://www.youtube.com/embed/73_1biulkYk?si=V58uulNK8l2rPuiN",
     poster: "deadpool.jpg",
     servers: [
       { name: "Server 1 (HD)", url: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" },
@@ -148,7 +148,7 @@ const movies = [
     year: "2021",
     genre: "Action, Fantasy",
     desc: "A martial arts master confronts the mysterious Ten Rings.",
-    trailer: "https://www.youtube.com/embed/giWIr7U1deA",
+    trailer: "https://www.youtube.com/embed/8YjFbMbfXaQ?si=VW20upvYQEf1VK7N",
     poster: "shangchi.jpg",
     servers: [
       { name: "Server 1 (HD)", url: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" },
@@ -160,7 +160,7 @@ const movies = [
     year: "2015",
     genre: "Action, Sci-Fi",
     desc: "Four young outsiders teleport to an alternate universe, gaining powers.",
-    trailer: "https://www.youtube.com/embed/_rRoD28-WgU",
+    trailer: "https://www.youtube.com/embed/18QQWa5MEcs?si=ENM60OdXW_lixJHz",
     poster: "fantastic four.jpg",
     servers: [
       { name: "Server 1 (HD)", url: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" },
@@ -172,7 +172,7 @@ const movies = [
     year: "2014",
     genre: "Action, Comedy",
     desc: "A group of intergalactic criminals band together to save the universe.",
-    trailer: "https://www.youtube.com/embed/d96cjJhvlMA",
+    trailer: "https://www.youtube.com/embed/d96cjJhvlMA?si=E9Z7GgdwTfXzIpw_",
     poster: "gotg.jpg",
     servers: [
       { name: "Server 1 (HD)", url: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" },
@@ -474,5 +474,4 @@ function updateUI() {
     document.getElementById("profileName").innerText = user;
   }
 }
-
 updateUI();
